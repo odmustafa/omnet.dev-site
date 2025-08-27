@@ -1,0 +1,2 @@
+- name: ftp-upload-action
+  uses: GenieTim/ftp-action@v4.0.1
